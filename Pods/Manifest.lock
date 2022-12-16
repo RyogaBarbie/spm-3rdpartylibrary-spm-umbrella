@@ -1,0 +1,23 @@
+PODS:
+  - APIKit (5.4.0)
+  - Nuke (11.1.1)
+
+DEPENDENCIES:
+  - APIKit (~> 5.0)
+  - Nuke (from `Specs/Nuke/Nuke.podspec`)
+
+SPEC REPOS:
+  trunk:
+    - APIKit
+
+EXTERNAL SOURCES:
+  Nuke:
+    :podspec: Specs/Nuke/Nuke.podspec
+
+SPEC CHECKSUMS:
+  APIKit: 0680e86d2e8abd5bc42e64963f5f89d209eb9271
+  Nuke: 38d0df997dd7e1cafc5a35b9ac85a3efbd022ebd
+
+PODFILE CHECKSUM: 6bc77ffaf2bcd1aaa34085dd731ff96e27c43e97
+
+COCOAPODS: 1.11.3
